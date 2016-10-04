@@ -1,15 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BaseChest : MonoBehaviour {
+public class BaseChest : BaseEquipment
+{
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+    //item name
+    //Level of item
+    //Value of item
+    //Stat requriments of item
+    //bonus effects
+    //stats applied by the item
 }

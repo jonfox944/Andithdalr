@@ -1,15 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BaseLeg : MonoBehaviour {
+public class BaseLeg : BaseEquipment
+{
+    //item name
+    //Level of item
+    //Value of item
+    //Stat requriments of item
+    //bonus effects
+    //stats applied by the item
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 }
